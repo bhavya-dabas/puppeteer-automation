@@ -53,8 +53,7 @@ These projects showcase my ability to:
 6. **License**
       Licensed under the ISC License - see package.json for details.
 
-   ```text
-   
+```text
 ---
 
 ### Changes Made
