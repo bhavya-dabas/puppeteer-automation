@@ -31,7 +31,7 @@ These projects showcase my ability to:
    cd puppeteer-automation
 
 2. **Install Dependencies**:
-   ````bash
+   ```bash
    npm install
 
 3. **Update Executable Path**: Edit executablePath in both scripts to match your Chrome installation:
@@ -53,7 +53,7 @@ These projects showcase my ability to:
 6. **License**
       Licensed under the ISC License - see package.json for details.
 
-   ````text
+   ```text
    
 ---
 
@@ -76,4 +76,4 @@ These projects showcase my ability to:
    git add README.md
    git commit -m "Refine README with setup, usage, and streamlined content"
    git push origin main
-````
+```
